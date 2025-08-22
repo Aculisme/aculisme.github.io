@@ -15,6 +15,24 @@ url = "https://github.com/Aculisme"
 [social.params]
 icon = "brand-github"
 
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/luca-mehl/"
+
+[social.params]
+icon = "brand-linkedin"
+
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:luca.mehl@gmail.com"
+
+[social.params]
+icon = "mail"
+
 # [[social]]
 # identifier = "twitter"
 # name = "Twitter"
