@@ -6,7 +6,7 @@ menu:
         name: Papers
         weight: 3
         params: 
-            icon: archives
+            icon: file-description
 ---
 
 ## Master's Thesis

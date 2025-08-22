@@ -33,10 +33,10 @@ url = "mailto:luca.mehl@gmail.com"
 [social.params]
 icon = "mail"
 
-# [[social]]
-# identifier = "twitter"
-# name = "Twitter"
-# url = "https://twitter.com"
+[[social]]
+identifier = "cv"
+name = "CV"
+url = "/documents/luca_mehl_cv_22.04.2025.pdf"
 
-# [social.params]
-# icon = "brand-twitter"
+[social.params]
+icon = "file-cv"
